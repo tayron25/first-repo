@@ -1,4 +1,4 @@
-a=8
-b=3
+a=5
+b=5
 r=a**b
 print("la potencia es:",r)
