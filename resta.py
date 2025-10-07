@@ -1,4 +1,4 @@
-a=9
-b=6
+a=78
+b=10
 r=a-b
 print("la resta es:",r)
