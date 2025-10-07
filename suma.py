@@ -1,0 +1,4 @@
+a = 9
+b = 5
+r=a+b
+print(r)
